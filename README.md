@@ -30,7 +30,7 @@ This project implements a **5-stage pipelined datapath** for the **RV32I subset*
 This processor implements all **RV32I base instructions**, including:
 
 - **R-type**: `add`, `sub`, `sll`, `slt`, `sltu`, `xor`, `srl`, `sra`, `or`, `and`  
-- **I-type**: `addi`, `andi`, `ori`, `xori`, `slti`, `sltiu`, `slli`, `srli`, `srai`, `lw`, `lb`, `lh`, `lbu`, `lhu`, `jalr`, `ecall`, `ebreak`  
+- **I-type**: `addi`, `andi`, `ori`, `xori`, `slti`, `sltiu`, `slli`, `srli`, `srai`, `lw`, `lb`, `lh`, `lbu`, `lhu`, `jalr`  
 - **S-type**: `sw`, `sb`, `sh`  
 - **B-type**: `beq`, `bne`, `blt`, `bge`, `bltu`, `bgeu`  
 - **U-type**: `lui`, `auipc`  
