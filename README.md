@@ -46,3 +46,14 @@ This processor design has passed **all RISCOF compliance tests** for the **RV32I
 
 ![RISCOF Compliance Result 1](riscof_test1.png)
 ![RISCOF Compliance Result 2](riscof_test2.png)
+
+---
+
+## 🔌 FPGA Support – Arty A7-100T
+
+The design is synthesized and implemented for the **Arty A7-100T FPGA** board.
+
+- 🧾 **Bitstream Included**: A pre-built bitstream file is provided in the repository for direct FPGA programming.
+- ✅ **Tested on Hardware**: The core runs successfully on the Arty A7-100T, showcasing correct execution of test programs.
+- 📦 **Target Board**: Digilent Arty A7-100T (XC7A100T-1CSG324C)
+- 🛠️ **Toolchain**: Xilinx Vivado
